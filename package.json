@@ -1,0 +1,12 @@
+{
+  "name": "update-deps",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "joshuajaco/update-deps",
+  "scripts": {
+    "format": "prettier . -w --ignore-path .gitignore"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
